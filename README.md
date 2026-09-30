@@ -245,3 +245,12 @@ Star the repo if you find it useful!
 **Made for ML engineers, data labeling teams, and open annotation advocates.**
 
 Let's keep training data high-quality, owned, and as open as practical.
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Data-Labeling-Platform&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Data-Labeling-Platform_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Data-Labeling-Platform_growth.svg">
+  </picture>
+</a>
