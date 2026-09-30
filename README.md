@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Data-Labeling-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Labeling-Platform?style=flat-square&color=gold" alt="GitHub Stars"/></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Data-Labeling-Platform/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Data-Labeling-Platform?style=flat-square&color=gold" alt="GitHub_Stars"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Labeling-Platform/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Data-Labeling-Platform?style=flat-square" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Data-Labeling-Platform/blob/main/LICENSE"><img src="https://img.shields.io/github/license/ishandutta2007/Awesome-Data-Labeling-Platform?style=flat-square&color=blue" alt="License"/></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -62,20 +62,20 @@ Below is the list of top commercial data labeling platforms sorted by **Company 
 
 ## 🛠️ Open-Source GitHub Projects
 
-Below are top open-source annotation repositories sorted by **GitHub Star Count** (descending order). Each star badge directly links to the repository's stargazers page: ⭐
+Below are top open-source annotation repositories sorted by **GitHub Stars_Count** (descending order). Each Stars_Badge directly links to the repository's stargazers page: ⭐
 
-| Repository 📂 | Description 📝 | Stars 🌟 | Link 🔗 |
+| Repository 📂 | Description 📝 | GitHub_Stars 🌟 | Link 🔗 |
 | :--- | :--- | :--- | :--- |
-| **[tzutalin/labelImg](https://github.com/tzutalin/labelImg)** | Graphical image annotation tool for bounding boxes in Pascal VOC and YOLO formats. *(Archived legacy leader)* | [![GitHub stars](https://img.shields.io/github/stars/tzutalin/labelImg?style=social&color=white)](https://github.com/tzutalin/labelImg/stargazers) | [View Code](https://github.com/tzutalin/labelImg) |
-| **[HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)** | Multi-type data labeling tool for image, text, audio, video, time series, and LLM RLHF annotations. | [![GitHub stars](https://img.shields.io/github/stars/HumanSignal/label-studio?style=social&color=white)](https://github.com/HumanSignal/label-studio/stargazers) | [View Code](https://github.com/HumanSignal/label-studio) |
-| **[cvat-ai/cvat](https://github.com/cvat-ai/cvat)** | Interactive computer vision annotation tool for images, video tracking, and 3D point cloud labeling. | [![GitHub stars](https://img.shields.io/github/stars/cvat-ai/cvat?style=social&color=white)](https://github.com/cvat-ai/cvat/stargazers) | [View Code](https://github.com/cvat-ai/cvat) |
-| **[wkentaro/labelme](https://github.com/wkentaro/labelme)** | Polygon and shape annotation tool written in Python for image semantic segmentation datasets. | [![GitHub stars](https://img.shields.io/github/stars/wkentaro/labelme?style=social&color=white)](https://github.com/wkentaro/labelme/stargazers) | [View Code](https://github.com/wkentaro/labelme) |
-| **[doccano/doccano](https://github.com/doccano/doccano)** | Open-source text annotation tool for named entity recognition (NER), sentiment analysis, and translation. | [![GitHub stars](https://img.shields.io/github/stars/doccano/doccano?style=social&color=white)](https://github.com/doccano/doccano/stargazers) | [View Code](https://github.com/doccano/doccano) |
-| **[CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling)** | Auto-labeling tool integrated with Segment Anything (SAM), YOLO, and SOTA AI models for image annotation. | [![GitHub stars](https://img.shields.io/github/stars/CVHub520/X-AnyLabeling?style=social&color=white)](https://github.com/CVHub520/X-AnyLabeling/stargazers) | [View Code](https://github.com/CVHub520/X-AnyLabeling) |
-| **[vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling)** | Auto-labeling tool with Segment Anything (SAM) and YOLO integration for fast computer vision datasets. | [![GitHub stars](https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social&color=white)](https://github.com/vietanhdev/anylabeling/stargazers) | [View Code](https://github.com/vietanhdev/anylabeling) |
-| **[diffgram/diffgram](https://github.com/diffgram/diffgram)** | Open-source data training platform for computer vision, annotation automation, and data pipeline management. | [![GitHub stars](https://img.shields.io/github/stars/diffgram/diffgram?style=social&color=white)](https://github.com/diffgram/diffgram/stargazers) | [View Code](https://github.com/diffgram/diffgram) |
-| **[openlabeling/OpenLabeling](https://github.com/openlabeling/OpenLabeling)** | Lightweight OpenCV-based image and video bounding box annotation tool. | [![GitHub stars](https://img.shields.io/github/stars/openlabeling/OpenLabeling?style=social&color=white)](https://github.com/openlabeling/OpenLabeling/stargazers) | [View Code](https://github.com/openlabeling/OpenLabeling) |
-| **[lightly-ai/lightly](https://github.com/lightly-ai/lightly)** | Open-source Python library for dataset curation, self-supervised learning, and active sample selection. | [![GitHub stars](https://img.shields.io/github/stars/lightly-ai/lightly?style=social&color=white)](https://github.com/lightly-ai/lightly/stargazers) | [View Code](https://github.com/lightly-ai/lightly) |
+| **[tzutalin/labelImg](https://github.com/tzutalin/labelImg)** | Graphical image annotation tool for bounding boxes in Pascal VOC and YOLO formats. *(Archived legacy leader)* | [![GitHub_Stars](https://img.shields.io/github/stars/tzutalin/labelImg?style=social&color=white)](https://github.com/tzutalin/labelImg/stargazers) | [View Code](https://github.com/tzutalin/labelImg) |
+| **[HumanSignal/label-studio](https://github.com/HumanSignal/label-studio)** | Multi-type data labeling tool for image, text, audio, video, time series, and LLM RLHF annotations. | [![GitHub_Stars](https://img.shields.io/github/stars/HumanSignal/label-studio?style=social&color=white)](https://github.com/HumanSignal/label-studio/stargazers) | [View Code](https://github.com/HumanSignal/label-studio) |
+| **[cvat-ai/cvat](https://github.com/cvat-ai/cvat)** | Interactive computer vision annotation tool for images, video tracking, and 3D point cloud labeling. | [![GitHub_Stars](https://img.shields.io/github/stars/cvat-ai/cvat?style=social&color=white)](https://github.com/cvat-ai/cvat/stargazers) | [View Code](https://github.com/cvat-ai/cvat) |
+| **[wkentaro/labelme](https://github.com/wkentaro/labelme)** | Polygon and shape annotation tool written in Python for image semantic segmentation datasets. | [![GitHub_Stars](https://img.shields.io/github/stars/wkentaro/labelme?style=social&color=white)](https://github.com/wkentaro/labelme/stargazers) | [View Code](https://github.com/wkentaro/labelme) |
+| **[doccano/doccano](https://github.com/doccano/doccano)** | Open-source text annotation tool for named entity recognition (NER), sentiment analysis, and translation. | [![GitHub_Stars](https://img.shields.io/github/stars/doccano/doccano?style=social&color=white)](https://github.com/doccano/doccano/stargazers) | [View Code](https://github.com/doccano/doccano) |
+| **[CVHub520/X-AnyLabeling](https://github.com/CVHub520/X-AnyLabeling)** | Auto-labeling tool integrated with Segment Anything (SAM), YOLO, and SOTA AI models for image annotation. | [![GitHub_Stars](https://img.shields.io/github/stars/CVHub520/X-AnyLabeling?style=social&color=white)](https://github.com/CVHub520/X-AnyLabeling/stargazers) | [View Code](https://github.com/CVHub520/X-AnyLabeling) |
+| **[vietanhdev/anylabeling](https://github.com/vietanhdev/anylabeling)** | Auto-labeling tool with Segment Anything (SAM) and YOLO integration for fast computer vision datasets. | [![GitHub_Stars](https://img.shields.io/github/stars/vietanhdev/anylabeling?style=social&color=white)](https://github.com/vietanhdev/anylabeling/stargazers) | [View Code](https://github.com/vietanhdev/anylabeling) |
+| **[diffgram/diffgram](https://github.com/diffgram/diffgram)** | Open-source data training platform for computer vision, annotation automation, and data pipeline management. | [![GitHub_Stars](https://img.shields.io/github/stars/diffgram/diffgram?style=social&color=white)](https://github.com/diffgram/diffgram/stargazers) | [View Code](https://github.com/diffgram/diffgram) |
+| **[openlabeling/OpenLabeling](https://github.com/openlabeling/OpenLabeling)** | Lightweight OpenCV-based image and video bounding box annotation tool. | [![GitHub_Stars](https://img.shields.io/github/stars/openlabeling/OpenLabeling?style=social&color=white)](https://github.com/openlabeling/OpenLabeling/stargazers) | [View Code](https://github.com/openlabeling/OpenLabeling) |
+| **[lightly-ai/lightly](https://github.com/lightly-ai/lightly)** | Open-source Python library for dataset curation, self-supervised learning, and active sample selection. | [![GitHub_Stars](https://img.shields.io/github/stars/lightly-ai/lightly?style=social&color=white)](https://github.com/lightly-ai/lightly/stargazers) | [View Code](https://github.com/lightly-ai/lightly) |
 
 ---
 
@@ -123,3 +123,12 @@ If you find this curated list valuable for your AI engineering, computer vision,
 ---
 
 **Made with ❤️ for ML engineers, computer vision researchers, and open annotation advocates worldwide.** 🌍
+
+## ⭐ Star History
+
+<a href="https://star-history.com/#ishandutta2007/Awesome-Data-Labeling-Platform&Timeline" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/ishandutta2007_Awesome-Data-Labeling-Platform_growth.svg">
+    <img alt="Star History Chart" src="assets/ishandutta2007_Awesome-Data-Labeling-Platform_growth.svg">
+  </picture>
+</a>
